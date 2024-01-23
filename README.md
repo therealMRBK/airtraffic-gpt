@@ -13,7 +13,7 @@ This program is a speech recognition and text-to-speech program that utilizes th
 1. Install Python 3.x
 2. Install the required libraries by running the following command:
 ```
-pip install speech_recognition pyttsx3 openai
+pip install SpeechRecognition pyttsx3 openai
 ```
 3. Install portaudio by running the following command:
 ```
